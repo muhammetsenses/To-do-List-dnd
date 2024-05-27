@@ -1,0 +1,12 @@
+@import "bootstrap/dist/css/bootstrap.css";
+body{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(22, 84, 141);
+}
+#root {
+margin-top: 5rem;
+background-color: white;
+
+}
+
